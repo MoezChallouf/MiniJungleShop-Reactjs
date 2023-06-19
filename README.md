@@ -1,3 +1,6 @@
+![image](https://github.com/MoezChallouf/MiniJungleShop-Reactjs/assets/72388621/1fc76fa6-9b3d-4b30-9a19-e218f088a404)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
